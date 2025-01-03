@@ -5,11 +5,11 @@
 - 🎓 Completed a Higher Diploma in Software Engineering at ICBT Campus, Colombo.
 
 - 🛠️ Skills
-#Programming Languages: C/C++, Java, C#, JavaScript, Python, PHP
+#Programming Languages: C++, Java,JavaScript, Python, PHP
 #Testing Tools: Postman API, Selenium Framework
 #Database Management: SQL
 #Web Technologies: CSS, HTML, Bootstrap
-- Interests: **Mobile & Web Application Development**, **QA Testing**
+- Interests: **Web Application Development**, **QA Testing**
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niluxshana-ragavan-686982338)
